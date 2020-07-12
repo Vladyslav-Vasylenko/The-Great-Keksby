@@ -3,7 +3,7 @@
 
 **Description:**
 Check the final project of courses by HTML Academy! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
-### [LIVE](https://richboyscrytoo.github.io/The-Great-Keksby/)
+### [LIVE](https://vladyslav-vasylenko.github.io/The-Great-Keksby/)
 **Technologies used:**
  - HTML
  - CSS
